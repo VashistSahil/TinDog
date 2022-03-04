@@ -1,0 +1,192 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Sofia', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Coda Caption', sans-serif;
+font-family: 'Ultra', serif;
+font-family: 'Lilita One', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif; */
+
+
+/* Title section */
+
+.title-container{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding:  1.5% 12% 8% 12%;
+}
+
+.brand-heading{
+    font-size: 4rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+.nav-link{
+    margin: auto 0.75rem;
+    font-size: 1.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar{
+    padding: 0 0 5% 0;
+}
+
+h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 4rem;
+    color: #fff;
+    margin: 0 0 5% 0;
+}
+
+.fab{
+    font-size: 1.25rem;
+    margin-right: 5px;
+    font-weight: 400;
+    padding: 0 5px 5px 5px;
+}
+
+.btn{
+    font-size: 1.25rem;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+.btn-title-dark{
+    margin-right: 1.5%;
+}
+
+#iphone{
+    margin-top:15px ;
+    height: 620px;
+    transform: rotate(20deg);
+    position: relative;
+    bottom: 30px;
+}
+
+.phone_div{
+    position: absolute;
+    right: 100px;
+}
+
+/* features section */
+
+#features{
+    padding: 10% 0;
+    background-color: #fff;
+    text-align: center;
+    position: relative;
+    /* z-index: 1; */
+}
+
+#features-container{
+    padding-top: 0;
+}
+
+.fas{
+    font-size: 5rem;
+    margin: 5% 0 5% 0;
+    color: #ef8172;
+}
+
+.fas:hover{
+    color:  #ff4c68;
+}
+
+h3{
+    font-family: 'Lilita One', cursive;
+}
+
+.features-para{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: grey;
+}
+
+.features-textbox{
+    padding: 0 6%;
+}
+
+/* testimonials section  */
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.doggo-pic{
+    border-radius: 50%;
+    height: 100px;
+    margin: 2.5%;
+}
+h2{
+    font-size: 3rem;
+}
+
+/* press */
+
+#press{
+    background-color: #ef8172;
+    padding: 0% 2% 5% 2%;
+    text-align: center;
+}
+
+.press-img{
+    width: 20%;
+    padding: 5% 2% 0 2%;
+}
+
+.carousel-item{
+    padding: 5% 20%;
+}
+
+/* pricing */
+
+.card-container{
+    padding: 7% 20%;
+    text-align: center;
+}
+
+.pricing-tagline{
+    margin-bottom: 3%;
+}
+
+.pricing-tagline-para{
+    margin-top: 1.5%;
+}
+
+.pricing-col{
+    margin: 2% 0;
+}
+
+.card-header-title{
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.card{
+    text-align: center;
+}
+
+.list-of-card{
+    padding: 0;
+}
+
+.btn-of-card{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.per-month{
+    color: grey;
+    font-weight: 500;
+    font-size: 2rem;
+}
